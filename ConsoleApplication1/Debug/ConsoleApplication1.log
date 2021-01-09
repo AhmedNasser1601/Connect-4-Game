@@ -288,5 +288,5 @@ X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\wining.cpp(19,17): warn
 X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\winner2.cpp(11,17): warning C4996: 'sf::Text::setColor': was declared deprecated
 X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\winner2.cpp(18,17): warning C4996: 'sf::Text::setColor': was declared deprecated
   Generating Code...
-X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(232): warning C4715: 'ld': not all control paths return a value
 X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(206): warning C4715: 'rd': not all control paths return a value
+X:\Visual Studio 2019\Connect-4-Game\ConsoleApplication1\main.cpp(232): warning C4715: 'ld': not all control paths return a value
