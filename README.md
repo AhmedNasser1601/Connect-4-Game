@@ -6,6 +6,8 @@ In which the players first choose a color and then take turns dropping one color
 
 The Contest Link on Facebook: https://www.facebook.com/100010220675712/videos/1177986995885312/
 
+Video that describes the Game: https://connect-4-game.000webhostapp.com/
+
 Credits to =>
      ENG: Ahmed Nasser
      +201270800202
