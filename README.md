@@ -8,10 +8,5 @@ The Contest Link on Facebook: https://www.facebook.com/100010220675712/videos/11
 
 Video that describes the Game: https://connect-4-game.000webhostapp.com/
 
-Credits to =>
-     ENG: Ahmed Nasser
-     +201270800202
-     ahmednasser1601@gmail.com
-
 
 ![Screenshot 2021-04-22 000747](https://user-images.githubusercontent.com/60184582/115627224-e9a17e80-a2fe-11eb-9c06-c0f40dc2aeb7.jpg)
